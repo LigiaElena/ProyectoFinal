@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <linearGradient id="svg_4" spreadMethod="pad" x1="0.5495" y1="0.640625">
+   <stop offset="0" stop-color="#7f7f7f"/>
+   <stop offset="1" stop-color="#56ffff" stop-opacity="0.996094"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m33.727452,78.982507l0,0c0,22.146611 64.694864,40.1 144.500026,40.1c79.805123,0 144.499968,-17.953389 144.499968,-40.1l0,0c0,-22.146624 64.694884,-40.1 144.500046,-40.1c79.805162,0 144.499968,17.953389 144.499968,40.1l0,320.799998c0,-22.146611 -64.694826,-40.100027 -144.499968,-40.100027c-79.805162,0 -144.500046,17.953402 -144.500046,40.100027c0,22.146597 -64.694845,40.099986 -144.499968,40.099986c-79.805162,0 -144.500026,-17.953389 -144.500026,-40.099986l0,-320.799998z" fill="url(#svg_4)" id="svg_1" stroke="#000000" stroke-width="5"/>
+  <text fill="#000000" font-family="serif" font-size="45" font-weight="bold" id="svg_3" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(3.51504 0 0 2.6 -694.375 -504.8)" x="290.655078" xml:space="preserve" y="301.653846">L.E.C.S</text>
+ </g>
+</svg>
